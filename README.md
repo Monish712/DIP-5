@@ -1,4 +1,6 @@
 ## Image Smoothing and Sharpening Using OpenCV
+ **Name:** PAKANATI MONISH
+- **Register Number:** 212224240109
 
 ## Aim
 
